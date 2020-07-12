@@ -1,4 +1,5 @@
-#DisKO
+# DisKO
+
 ![](disko_0.gif)
 
 A game made for the GMTK Game Jam 2020. The theme was out of control.
